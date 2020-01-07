@@ -1452,7 +1452,8 @@ body.offcanvas {
    width: 2px;
    height: 100%;
    background: #CCD1D9;
-   z-index: 1
+   z-index: 1;
+   display: block;
 }
 
 .timeline-block {
